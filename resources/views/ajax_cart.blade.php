@@ -1,0 +1,1 @@
+<input min="1" value="{{ $qty->qty }}" disabled style="height: 35px">  
